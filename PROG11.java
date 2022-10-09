@@ -1,5 +1,5 @@
 
-//THIS PROGRAM PREPARED BY MAMTA 21CE016
+//THIS PROGRAM PREPARED BY UNNATI DESAI 21CE025
 import java.util.ArrayList;
 import java.util.HashSet;
 import java.util.List;
@@ -69,7 +69,7 @@ class Triplet<U, V, T> {
 // Program to implement Triplet class in Java
 class Main {
     public static void main(String[] args) throws ExecutionException {
-        Triplet<String, Integer, Character> p1 = Triplet.of("HARSH DUDHAT", 26, 'M');
+        Triplet<String, Integer, Character> p1 = Triplet.of("UNNATI DESAI", 25, 'F');
         Triplet<String, Integer, Character> p2 = Triplet.of("RAM", 20, 'M');
         Triplet<String, Integer, Character> p3 = Triplet.of("KRISHNA", 26, 'M');
 
