@@ -1,4 +1,4 @@
-//THIS PROGRAM PREPARED BY MAMTA 21CE016
+//THIS PROGRAM PREPARED BY UNNATI DESAI 21CE025
 
 class RegularPolygon {
     int n = 3;// number of sides
