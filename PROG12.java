@@ -1,5 +1,5 @@
 
-//THIS PROGRAM PREPARED BY MAMTA 21CE016
+//THIS PROGRAM PREPARED BY UNNATI DESAI 21CE025
 
 import java.io.*;
 
@@ -44,7 +44,7 @@ class pr12 {
 
         // Creating objects of bank and Employee class
         Bank bank = new Bank("SBI");
-        Employee emp = new Employee("HARSH DUDHAT");
+        Employee emp = new Employee("UNNATI DESAI");
         System.out.println(emp.getEmployeeName()
                 + " is employee of "
                 + bank.getBankName());
